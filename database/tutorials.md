@@ -1,0 +1,16 @@
+---
+https://build-your-own.org/
+https://buildyourownlisp.com/
+https://craftinginterpreters.com/
+https://css-tricks.com/snippets/
+https://cstack.github.io/db_tutorial/
+https://decidables.github.io/detectable/
+https://fmwconcepts.com/imagemagick/
+https://gobyexample.com/
+https://golangbyexample.com/
+https://gowebexamples.com/
+https://lhartikk.github.io/
+https://muted.io/cheat-sheet/
+https://objccn.io/issues/
+https://riffle.systems/essays/prelude/
+https://thevalleyofcode.com/
