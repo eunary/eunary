@@ -1,4 +1,5 @@
 ---
+https://github.com/3b1b/manim
 https://github.com/alisaifee/flask-limiter
 https://github.com/arrow-py/arrow
 https://github.com/astral-sh/ruff
@@ -6,7 +7,9 @@ https://github.com/astral-sh/uv
 https://github.com/authlib/authlib
 https://github.com/benoitc/gunicorn
 https://github.com/browser-use/browser-use
+https://github.com/certbot/certbot
 https://github.com/coleifer/peewee
+https://github.com/danielgatis/rembg
 https://github.com/dbader/schedule
 https://github.com/dbcli/pgcli
 https://github.com/django/django
@@ -23,6 +26,7 @@ https://github.com/libvips/pyvips
 https://github.com/manimcommunity/manim
 https://github.com/marshmallow-code/flask-marshmallow
 https://github.com/marshmallow-code/marshmallow
+https://github.com/matplotlib/matplotlib
 https://github.com/maxcountryman/flask-bcrypt
 https://github.com/maxcountryman/flask-login
 https://github.com/mem0ai/mem0
@@ -48,6 +52,7 @@ https://github.com/pallets/click
 https://github.com/pallets/flask
 https://github.com/pallets/jinja
 https://github.com/pipecat-ai/pipecat
+https://github.com/posthog/posthog
 https://github.com/pydantic/fastui
 https://github.com/pydantic/pydantic
 https://github.com/pydantic/pydantic-ai
@@ -71,3 +76,4 @@ https://github.com/unslothai/unsloth
 https://github.com/wagtail/wagtail
 https://github.com/yt-dlp/yt-dlp
 https://github.com/zauberzeug/nicegui
+https://github.com/zulko/moviepy
