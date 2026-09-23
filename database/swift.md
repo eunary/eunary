@@ -19,6 +19,8 @@ https://github.com/freshos/stevia
 https://github.com/httpswift/swifter
 https://github.com/hyperoslo/barcodescanner
 https://github.com/hyperoslo/lightbox
+https://github.com/iina/iina
+https://github.com/johnsundell/publish
 https://github.com/keitaoouchi/markdownview
 https://github.com/kishikawakatsumi/keychainaccess
 https://github.com/krisiacik/imageviewer
@@ -26,11 +28,13 @@ https://github.com/kylef/pathkit
 https://github.com/malcommac/swiftrichstring
 https://github.com/mattt/ollama-swift
 https://github.com/mxcl/path.swift
+https://github.com/mxcl/promisekit
 https://github.com/nmac427/swiftocr
 https://github.com/nvzqz/filekit
 https://github.com/oauthswift/oauthswift
 https://github.com/onevcat/kingfisher
 https://github.com/p2/oauth2
+https://github.com/quick/quick
 https://github.com/realm/realm-swift
 https://github.com/s2mr/elephant
 https://github.com/shoheiyokoyama/gemini
