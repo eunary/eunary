@@ -1,5 +1,8 @@
 ---
+https://github.com/ardeora/solid-toast
 https://github.com/avajs/ava
+https://github.com/better-auth/better-auth
+https://github.com/bgub/eta
 https://github.com/bitwarden/clients
 https://github.com/codex-team/editor.js
 https://github.com/dahlia/hollo
@@ -7,9 +10,12 @@ https://github.com/denoland/dotland
 https://github.com/denostack/bijector
 https://github.com/dip/cmdk
 https://github.com/drizzle-team/drizzle-orm
+https://github.com/earendil-works/pi
 https://github.com/fabian-hiller/valibot
 https://github.com/floating-ui/floating-ui
 https://github.com/freshframework/fresh
+https://github.com/google-gemini/gemini-cli
+https://github.com/heroui-inc/heroui
 https://github.com/honojs/hono
 https://github.com/infisical/infisical
 https://github.com/lumeland/base-blog
@@ -19,6 +25,7 @@ https://github.com/microsoft/vscode
 https://github.com/milkdown/milkdown
 https://github.com/nanostores/nanostores
 https://github.com/nativescript/nativescript
+https://github.com/nitrojs/nitro
 https://github.com/palantir/blueprint
 https://github.com/pmndrs/jotai
 https://github.com/pmndrs/react-three-fiber
@@ -31,6 +38,7 @@ https://github.com/refinedev/refine
 https://github.com/remotion-dev/remotion
 https://github.com/sboudrias/inquirer.js
 https://github.com/shikijs/shiki
+https://github.com/solidjs/solid-router
 https://github.com/steven-tey/novel
 https://github.com/tamagui/tamagui
 https://github.com/tanstack/query
@@ -43,5 +51,7 @@ https://github.com/vadimdemedes/ink
 https://github.com/vercel/little-date
 https://github.com/video-dev/hls.js
 https://github.com/videojs/m3u8-parser
+https://github.com/vidstack/player
 https://github.com/vitest-dev/vitest
 https://github.com/xtermjs/xterm.js
+https://github.com/zenn-dev/zenn-editor
