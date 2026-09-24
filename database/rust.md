@@ -3,6 +3,7 @@ https://github.com/alacritty/alacritty
 https://github.com/astral-sh/ruff
 https://github.com/bensadeh/tailspin
 https://github.com/bevyengine/bevy
+https://github.com/borgo-lang/borgo
 https://github.com/burntsushi/ripgrep
 https://github.com/clap-rs/clap
 https://github.com/dalance/procs
@@ -18,11 +19,14 @@ https://github.com/lsd-rs/lsd
 https://github.com/microsoft/edit
 https://github.com/mitsuhiko/argument
 https://github.com/mitsuhiko/minijinja
+https://github.com/mozillazg/rust-pinyin
 https://github.com/neondatabase/neon
 https://github.com/o2sh/onefetch
 https://github.com/ogham/exa
+https://github.com/openai/codex
 https://github.com/pagefind/pagefind
 https://github.com/phil-opp/blog_os
+https://github.com/pls-rs/pls
 https://github.com/pola-rs/polars
 https://github.com/ratatui/ratatui
 https://github.com/servo/servo
@@ -35,6 +39,7 @@ https://github.com/tamatebako/tebako
 https://github.com/tauri-apps/tauri
 https://github.com/tokio-rs/axum
 https://github.com/tokio-rs/tokio
+https://github.com/tokio-rs/topcoat
 https://github.com/transact-rs/sqlx
 https://github.com/tree-sitter/tree-sitter
 https://github.com/tursodatabase/libsql
@@ -42,4 +47,5 @@ https://github.com/tursodatabase/turso
 https://github.com/typst/typst
 https://github.com/unionlabs/union
 https://github.com/uutils/coreutils
+https://github.com/xai-org/x-algorithm
 https://github.com/yewstack/yew
