@@ -1,9 +1,12 @@
 ---
+https://github.com/anomalyco/opencode
+https://github.com/anomalyco/opentui
 https://github.com/ardeora/solid-toast
 https://github.com/avajs/ava
 https://github.com/better-auth/better-auth
 https://github.com/bgub/eta
 https://github.com/bitwarden/clients
+https://github.com/cloudflare/vinext
 https://github.com/codex-team/editor.js
 https://github.com/dahlia/hollo
 https://github.com/denoland/dotland
@@ -26,6 +29,7 @@ https://github.com/milkdown/milkdown
 https://github.com/nanostores/nanostores
 https://github.com/nativescript/nativescript
 https://github.com/nitrojs/nitro
+https://github.com/nutlope/aicommits
 https://github.com/palantir/blueprint
 https://github.com/pmndrs/jotai
 https://github.com/pmndrs/react-three-fiber
@@ -49,6 +53,7 @@ https://github.com/ueberdosis/tiptap
 https://github.com/unjs/consola
 https://github.com/vadimdemedes/ink
 https://github.com/vercel/little-date
+https://github.com/vercel/serve
 https://github.com/video-dev/hls.js
 https://github.com/videojs/m3u8-parser
 https://github.com/vidstack/player

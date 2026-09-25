@@ -8,6 +8,7 @@ https://github.com/flutter/flutter
 https://github.com/gokadzev/musify
 https://github.com/isar/hive
 https://github.com/jonkykong/sidemenu
+https://github.com/juliansteenbakker/flutter_secure_storage
 https://github.com/juliansteenbakker/mobile_scanner
 https://github.com/kishikawakatsumi/keychainaccess
 https://github.com/krtirtho/spotube
@@ -18,7 +19,10 @@ https://github.com/lvivski/start
 https://github.com/nubank/nuvigator
 https://github.com/openflutter/flutter_screenutil
 https://github.com/robertodoering/harpy
+https://github.com/rodydavis/signals.dart
 https://github.com/saber-notes/saber
+https://github.com/superlistapp/super_sliver_list
+https://github.com/tekartik/sqflite
 https://github.com/thealgorithms/dart
 https://github.com/thealphamerc/flutter_twitter_clone
 https://github.com/vaetas/blake
