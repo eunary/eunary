@@ -6,6 +6,7 @@ https://github.com/bblimke/webmock
 https://github.com/bettererrors/better_errors
 https://github.com/brendon/acts_as_list
 https://github.com/brotandgames/ciao
+https://github.com/busyloop/lolcat
 https://github.com/capistrano/sshkit
 https://github.com/casecommons/pg_search
 https://github.com/chatwoot/chatwoot
