@@ -70,6 +70,7 @@ https://github.com/python-poetry/poetry
 https://github.com/pytorch/pytorch
 https://github.com/reflex-dev/reflex
 https://github.com/roboflow/supervision
+https://github.com/sanic-org/sanic
 https://github.com/scipy/scipy
 https://github.com/scrapy/scrapy
 https://github.com/skorokithakis/shortuuid

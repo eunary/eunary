@@ -12,8 +12,10 @@ https://github.com/diesel-rs/diesel
 https://github.com/dioxuslabs/dioxus
 https://github.com/ducaale/xh
 https://github.com/emilk/egui
+https://github.com/erg-lang/erg
 https://github.com/farion1231/cc-switch
 https://github.com/fish-shell/fish-shell
+https://github.com/gtk-rs/gtk4-rs
 https://github.com/hyperium/hyper
 https://github.com/lsd-rs/lsd
 https://github.com/microsoft/edit
@@ -24,6 +26,7 @@ https://github.com/neondatabase/neon
 https://github.com/o2sh/onefetch
 https://github.com/ogham/exa
 https://github.com/openai/codex
+https://github.com/orange-opensource/hurl
 https://github.com/pagefind/pagefind
 https://github.com/phil-opp/blog_os
 https://github.com/pls-rs/pls
