@@ -10,6 +10,7 @@ https://github.com/dalance/procs
 https://github.com/dandavison/delta
 https://github.com/diesel-rs/diesel
 https://github.com/dioxuslabs/dioxus
+https://github.com/dora-rs/dora
 https://github.com/ducaale/xh
 https://github.com/emilk/egui
 https://github.com/erg-lang/erg
@@ -17,6 +18,7 @@ https://github.com/farion1231/cc-switch
 https://github.com/fish-shell/fish-shell
 https://github.com/gtk-rs/gtk4-rs
 https://github.com/hyperium/hyper
+https://github.com/kitao/pyxel
 https://github.com/lsd-rs/lsd
 https://github.com/microsoft/edit
 https://github.com/mitsuhiko/argument
@@ -26,15 +28,19 @@ https://github.com/neondatabase/neon
 https://github.com/o2sh/onefetch
 https://github.com/ogham/exa
 https://github.com/openai/codex
+https://github.com/openinterpreter/openinterpreter
 https://github.com/orange-opensource/hurl
 https://github.com/pagefind/pagefind
 https://github.com/phil-opp/blog_os
 https://github.com/pls-rs/pls
 https://github.com/pola-rs/polars
+https://github.com/qdrant/qdrant
 https://github.com/ratatui/ratatui
+https://github.com/rui314/mold
 https://github.com/servo/servo
 https://github.com/sharkdp/bat
 https://github.com/sharkdp/fd
+https://github.com/sigoden/dufs
 https://github.com/spacedriveapp/spacedrive
 https://github.com/starship/starship
 https://github.com/sxyazi/yazi
@@ -50,5 +56,6 @@ https://github.com/tursodatabase/turso
 https://github.com/typst/typst
 https://github.com/unionlabs/union
 https://github.com/uutils/coreutils
+https://github.com/uutils/findutils
 https://github.com/xai-org/x-algorithm
 https://github.com/yewstack/yew

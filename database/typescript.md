@@ -19,6 +19,7 @@ https://github.com/earendil-works/pi
 https://github.com/fabian-hiller/valibot
 https://github.com/floating-ui/floating-ui
 https://github.com/freshframework/fresh
+https://github.com/getseline/seline-js
 https://github.com/google-gemini/gemini-cli
 https://github.com/heroui-inc/heroui
 https://github.com/honojs/hono
@@ -37,6 +38,7 @@ https://github.com/nativescript/nativescript
 https://github.com/nilbuild/driver.js
 https://github.com/nitrojs/nitro
 https://github.com/nutlope/aicommits
+https://github.com/openstatushq/openstatus
 https://github.com/palantir/blueprint
 https://github.com/pmndrs/jotai
 https://github.com/pmndrs/react-three-fiber
@@ -55,6 +57,7 @@ https://github.com/tamagui/tamagui
 https://github.com/tanstack/query
 https://github.com/tanstack/router
 https://github.com/trpc/trpc
+https://github.com/typesense/typesense-js
 https://github.com/udecode/plate
 https://github.com/ueberdosis/tiptap
 https://github.com/unjs/consola
@@ -65,5 +68,6 @@ https://github.com/video-dev/hls.js
 https://github.com/videojs/m3u8-parser
 https://github.com/vidstack/player
 https://github.com/vitest-dev/vitest
+https://github.com/wakujs/waku
 https://github.com/xtermjs/xterm.js
 https://github.com/zenn-dev/zenn-editor

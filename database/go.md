@@ -11,6 +11,7 @@ https://github.com/cosmtrek/air
 https://github.com/cue-lang/cue
 https://github.com/davidbyttow/govips
 https://github.com/ddosify/ddosify
+https://github.com/encoredev/encore
 https://github.com/enetx/surf
 https://github.com/expr-lang/expr
 https://github.com/filosottile/mkcert
@@ -39,6 +40,7 @@ https://github.com/labstack/echo
 https://github.com/masterminds/squirrel
 https://github.com/mattn/go-sqlite3
 https://github.com/mewkiz/flac
+https://github.com/mickael-kerjean/filestash
 https://github.com/microcosm-cc/bluemonday
 https://github.com/microsoft/typescript-go
 https://github.com/milvus-io/milvus
