@@ -6,9 +6,11 @@ https://codewords.recurse.com/issues/six/image-processing-101
 https://craftinginterpreters.com/
 https://css-tricks.com/snippets/
 https://cstack.github.io/db_tutorial/
+https://dart.dev/learn/tutorial
 https://decidables.github.io/detectable/
 https://elixirschool.com/zh-hans/lessons/basics/basics
 https://fmwconcepts.com/imagemagick/
+https://frontendmastery.com/
 https://github.com/anthropics/claude-cookbooks
 https://github.com/cedlemo/ruby-gtk3-tutorial
 https://github.com/davidsfiddle/sonic-pi-code-bits
@@ -34,3 +36,4 @@ https://thevalleyofcode.com/
 https://traefik.io/glossary/reverse-proxy
 https://webgl2fundamentals.org/
 https://webglfundamentals.org/
+https://writesoftwarewell.com/definitive-guide-to-rack/
