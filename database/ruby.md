@@ -61,7 +61,11 @@ https://github.com/rails/solid_queue
 https://github.com/rcairo/rcairo
 https://github.com/rmagick/rmagick
 https://github.com/rouge-ruby/rouge
+https://github.com/ruby-git/ruby-git
+https://github.com/ruby-syntax-tree/syntax_tree
+https://github.com/ruby/prism
 https://github.com/ruby/rake
+https://github.com/ruby/tempfile
 https://github.com/ruby2d/ruby2d
 https://github.com/shopify/ruby-lsp
 https://github.com/sidekiq-cron/sidekiq-cron

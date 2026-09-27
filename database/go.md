@@ -2,11 +2,13 @@
 https://github.com/air-verse/air
 https://github.com/alda-lang/alda
 https://github.com/alecthomas/chroma
+https://github.com/asaskevich/govalidator
 https://github.com/blushft/go-diagrams
 https://github.com/caddyserver/caddy
 https://github.com/charmbracelet/bubbles
 https://github.com/charmbracelet/bubbletea
 https://github.com/charmbracelet/lipgloss
+https://github.com/cli/cli
 https://github.com/cosmtrek/air
 https://github.com/cue-lang/cue
 https://github.com/davidbyttow/govips
@@ -27,7 +29,10 @@ https://github.com/gofiber/fiber
 https://github.com/golang-design/clipboard
 https://github.com/golang-jwt/jwt
 https://github.com/golang-migrate/migrate
+https://github.com/golang/go
+https://github.com/golang/oauth2
 https://github.com/google/go-github
+https://github.com/gopasspw/gopass
 https://github.com/harness/harness
 https://github.com/henrygd/beszel
 https://github.com/hybridgroup/gobot
@@ -63,6 +68,7 @@ https://github.com/spf13/viper
 https://github.com/tailscale/tailcat
 https://github.com/tailscale/tailscale
 https://github.com/teivah/100-go-mistakes
+https://github.com/tmrts/go-patterns
 https://github.com/traefik/traefik
 https://github.com/traefik/yaegi
 https://github.com/trufflesecurity/trufflehog

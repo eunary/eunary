@@ -42,6 +42,7 @@ https://github.com/snapkit/snapkit
 https://github.com/stencilproject/stencil
 https://github.com/stephencelis/sqlite.swift
 https://github.com/swiftkickmobile/swiftmessages
+https://github.com/swiftlang/swift-markdown
 https://github.com/swiftlang/swift-package-manager
 https://github.com/swiftsocket/swiftsocket
 https://github.com/swiftvalidatorcommunity/swiftvalidator

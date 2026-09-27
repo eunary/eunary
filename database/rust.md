@@ -12,6 +12,7 @@ https://github.com/diesel-rs/diesel
 https://github.com/dioxuslabs/dioxus
 https://github.com/dora-rs/dora
 https://github.com/ducaale/xh
+https://github.com/dylanhart/ulid-rs
 https://github.com/emilk/egui
 https://github.com/erg-lang/erg
 https://github.com/farion1231/cc-switch
@@ -19,11 +20,13 @@ https://github.com/fish-shell/fish-shell
 https://github.com/gtk-rs/gtk4-rs
 https://github.com/hyperium/hyper
 https://github.com/kitao/pyxel
+https://github.com/loco-rs/loco
 https://github.com/lsd-rs/lsd
 https://github.com/microsoft/edit
 https://github.com/mitsuhiko/argument
 https://github.com/mitsuhiko/minijinja
 https://github.com/mozillazg/rust-pinyin
+https://github.com/mplanchard/cuid-rust
 https://github.com/neondatabase/neon
 https://github.com/o2sh/onefetch
 https://github.com/ogham/exa
@@ -36,6 +39,7 @@ https://github.com/pls-rs/pls
 https://github.com/pola-rs/polars
 https://github.com/qdrant/qdrant
 https://github.com/ratatui/ratatui
+https://github.com/redis-rs/redis-rs
 https://github.com/rui314/mold
 https://github.com/servo/servo
 https://github.com/sharkdp/bat
