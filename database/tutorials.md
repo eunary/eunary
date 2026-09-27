@@ -1,10 +1,13 @@
 ---
+https://betterexplained.com/calculus/lesson-1/
 https://build-your-own.org/
 https://buildyourownlisp.com/
+https://codewords.recurse.com/issues/six/image-processing-101
 https://craftinginterpreters.com/
 https://css-tricks.com/snippets/
 https://cstack.github.io/db_tutorial/
 https://decidables.github.io/detectable/
+https://elixirschool.com/zh-hans/lessons/basics/basics
 https://fmwconcepts.com/imagemagick/
 https://github.com/anthropics/claude-cookbooks
 https://github.com/cedlemo/ruby-gtk3-tutorial
@@ -19,6 +22,8 @@ https://immersivemath.com/ila/
 https://lhartikk.github.io/
 https://lightnote.co/
 https://muted.io/cheat-sheet/
+https://nan.fyi/database
+https://nayuki.io/page/creating-a-qr-code-step-by-step
 https://objccn.io/issues/
 https://open.gl/
 https://pomax.github.io/bezierinfo/
@@ -26,5 +31,6 @@ https://pymotw.com/3/
 https://riffle.systems/essays/prelude/
 https://thebookofshaders.com/
 https://thevalleyofcode.com/
+https://traefik.io/glossary/reverse-proxy
 https://webgl2fundamentals.org/
 https://webglfundamentals.org/
