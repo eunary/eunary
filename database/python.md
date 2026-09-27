@@ -84,6 +84,7 @@ https://github.com/theskumar/python-dotenv
 https://github.com/unslothai/unsloth
 https://github.com/wagtail/wagtail
 https://github.com/waydroid/waydroid
+https://github.com/wireservice/csvkit
 https://github.com/xai-org/grok-1
 https://github.com/yt-dlp/yt-dlp
 https://github.com/zauberzeug/nicegui
