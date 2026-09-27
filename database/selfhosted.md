@@ -7,6 +7,8 @@ https://github.com/coollabsio/coolify
 https://github.com/directus/directus
 https://github.com/dokploy/dokploy
 https://github.com/dubinc/dub
+https://github.com/ephraimduncan/minimal.so
+https://github.com/ephraimduncan/weekday
 https://github.com/goauthentik/authentik
 https://github.com/immich-app/immich
 https://github.com/lemmynet/lemmy
@@ -16,11 +18,13 @@ https://github.com/mastodon/mastodon
 https://github.com/matze/wastebin
 https://github.com/misskey-dev/misskey
 https://github.com/nginxproxymanager/nginx-proxy-manager
+https://github.com/oblien/openship
 https://github.com/osbytes/crypt.fyi
 https://github.com/plausible/analytics
 https://github.com/singlelink-co/singlelink
 https://github.com/teableio/teable
 https://github.com/tsuru/tsuru
+https://github.com/twentyhq/favicon
 https://github.com/twentyhq/twenty
 https://github.com/umami-software/umami
 https://github.com/unkeyed/unkey

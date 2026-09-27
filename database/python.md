@@ -1,6 +1,7 @@
 ---
 https://github.com/3b1b/manim
 https://github.com/alisaifee/flask-limiter
+https://github.com/anthropics/skills
 https://github.com/arrow-py/arrow
 https://github.com/astral-sh/ruff
 https://github.com/astral-sh/uv
@@ -9,6 +10,7 @@ https://github.com/benoitc/gunicorn
 https://github.com/browser-use/browser-use
 https://github.com/certbot/certbot
 https://github.com/coleifer/peewee
+https://github.com/comfy-org/comfyui
 https://github.com/danielgatis/rembg
 https://github.com/dbader/schedule
 https://github.com/dbcli/pgcli
