@@ -13,6 +13,7 @@ https://github.com/cloudflare/computer
 https://github.com/cloudflare/vinext
 https://github.com/codex-team/editor.js
 https://github.com/dahlia/hollo
+https://github.com/darkroomengineering/lenis
 https://github.com/denoland/dotland
 https://github.com/denostack/bijector
 https://github.com/dip/cmdk
@@ -23,6 +24,7 @@ https://github.com/floating-ui/floating-ui
 https://github.com/freshframework/fresh
 https://github.com/getseline/seline-js
 https://github.com/google-gemini/gemini-cli
+https://github.com/haydenbleasel/blume
 https://github.com/heroui-inc/heroui
 https://github.com/honojs/hono
 https://github.com/honojs/honox
@@ -43,6 +45,7 @@ https://github.com/nutlope/aicommits
 https://github.com/onejs/one
 https://github.com/openstatushq/openstatus
 https://github.com/palantir/blueprint
+https://github.com/panel-ui/panelui
 https://github.com/pmndrs/jotai
 https://github.com/pmndrs/react-three-fiber
 https://github.com/pmndrs/use-gesture

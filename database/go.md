@@ -18,6 +18,7 @@ https://github.com/enetx/surf
 https://github.com/expr-lang/expr
 https://github.com/filosottile/mkcert
 https://github.com/fyne-io/fyne
+https://github.com/getfider/fider
 https://github.com/gin-gonic/gin
 https://github.com/gitleaks/gitleaks
 https://github.com/go-git/go-git
@@ -32,6 +33,7 @@ https://github.com/golang-migrate/migrate
 https://github.com/golang/go
 https://github.com/golang/oauth2
 https://github.com/google/go-github
+https://github.com/google/osv-scanner
 https://github.com/gopasspw/gopass
 https://github.com/harness/harness
 https://github.com/henrygd/beszel

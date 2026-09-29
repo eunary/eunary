@@ -48,6 +48,7 @@ https://github.com/numpy/numpy
 https://github.com/oauthlib/oauthlib
 https://github.com/oklog/ulid
 https://github.com/openai/openai-agents-python
+https://github.com/openai/tiktoken
 https://github.com/openai/whisper
 https://github.com/opencv/opencv-python
 https://github.com/pallets-eco/flask-admin

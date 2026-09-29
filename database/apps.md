@@ -3,6 +3,8 @@ https://github.com/airmessage/airmessage-web
 https://github.com/akiraux/akira
 https://github.com/alacritty/alacritty
 https://github.com/ankitects/anki
+https://github.com/artsy/eigen
+https://github.com/balena-io/etcher
 https://github.com/beemdevelopment/aegis
 https://github.com/binwiederhier/ntfy
 https://github.com/bitwarden/android

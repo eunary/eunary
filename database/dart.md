@@ -6,6 +6,7 @@ https://github.com/dart-lang/pub-dev
 https://github.com/flame-engine/flame
 https://github.com/flutter/flutter
 https://github.com/gokadzev/musify
+https://github.com/harmonoid/harmonoid
 https://github.com/isar/hive
 https://github.com/jonkykong/sidemenu
 https://github.com/juliansteenbakker/flutter_secure_storage
@@ -23,6 +24,7 @@ https://github.com/robertodoering/harpy
 https://github.com/rodydavis/signals.dart
 https://github.com/saber-notes/saber
 https://github.com/superlistapp/super_sliver_list
+https://github.com/talkjs/talkjs-flutter
 https://github.com/tekartik/sqflite
 https://github.com/thealgorithms/dart
 https://github.com/thealphamerc/flutter_twitter_clone

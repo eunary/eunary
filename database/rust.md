@@ -41,6 +41,7 @@ https://github.com/qdrant/qdrant
 https://github.com/ratatui/ratatui
 https://github.com/redis-rs/redis-rs
 https://github.com/rui314/mold
+https://github.com/rustic-rs/rustic
 https://github.com/servo/servo
 https://github.com/sharkdp/bat
 https://github.com/sharkdp/fd
