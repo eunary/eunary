@@ -1,4 +1,5 @@
 ---
+https://animations.dev/vocabulary
 https://betterexplained.com/calculus/lesson-1/
 https://build-your-own.org/
 https://buildyourownlisp.com/

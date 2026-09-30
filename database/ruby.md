@@ -1,5 +1,6 @@
 ---
 https://github.com/activeadmin/activeadmin
+https://github.com/barefootford/buttercut
 https://github.com/basecamp/kamal
 https://github.com/basecamp/thruster
 https://github.com/bblimke/webmock
@@ -61,6 +62,7 @@ https://github.com/rails/solid_queue
 https://github.com/rcairo/rcairo
 https://github.com/rmagick/rmagick
 https://github.com/rouge-ruby/rouge
+https://github.com/ruby-formatter/rufo
 https://github.com/ruby-git/ruby-git
 https://github.com/ruby-syntax-tree/syntax_tree
 https://github.com/ruby/prism

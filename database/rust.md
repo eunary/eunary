@@ -6,6 +6,7 @@ https://github.com/bevyengine/bevy
 https://github.com/borgo-lang/borgo
 https://github.com/burntsushi/ripgrep
 https://github.com/clap-rs/clap
+https://github.com/crate-ci/typos
 https://github.com/dalance/procs
 https://github.com/dandavison/delta
 https://github.com/diesel-rs/diesel
@@ -21,7 +22,9 @@ https://github.com/gtk-rs/gtk4-rs
 https://github.com/hyperium/hyper
 https://github.com/kitao/pyxel
 https://github.com/loco-rs/loco
+https://github.com/lqez/drcv
 https://github.com/lsd-rs/lsd
+https://github.com/marc2332/freya
 https://github.com/microsoft/edit
 https://github.com/mitsuhiko/argument
 https://github.com/mitsuhiko/minijinja
@@ -62,5 +65,6 @@ https://github.com/typst/typst
 https://github.com/unionlabs/union
 https://github.com/uutils/coreutils
 https://github.com/uutils/findutils
+https://github.com/vercel-labs/agent-browser
 https://github.com/xai-org/x-algorithm
 https://github.com/yewstack/yew

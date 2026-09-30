@@ -23,6 +23,7 @@ https://github.com/openflutter/flutter_screenutil
 https://github.com/robertodoering/harpy
 https://github.com/rodydavis/signals.dart
 https://github.com/saber-notes/saber
+https://github.com/serverpod/serverpod
 https://github.com/superlistapp/super_sliver_list
 https://github.com/talkjs/talkjs-flutter
 https://github.com/tekartik/sqflite

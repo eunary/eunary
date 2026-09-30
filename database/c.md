@@ -3,6 +3,7 @@ https://github.com/antirez/ds4
 https://github.com/antirez/smallchat
 https://github.com/argotorg/solidity
 https://github.com/aubio/aubio
+https://github.com/audacity/audacity
 https://github.com/cmus/cmus
 https://github.com/csound/csound
 https://github.com/fastfetch-cli/fastfetch
@@ -14,6 +15,7 @@ https://github.com/libvips/libvips
 https://github.com/marcobambini/gravity
 https://github.com/nomic-ai/gpt4all
 https://github.com/old-man-programmer/tree
+https://github.com/picoruby/picoruby
 https://github.com/raspberrypi/linux
 https://github.com/supercollider/supercollider
 https://github.com/systemd/systemd

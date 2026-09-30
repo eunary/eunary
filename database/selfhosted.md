@@ -16,9 +16,11 @@ https://github.com/lesspass/lesspass
 https://github.com/makeplane/plane
 https://github.com/mastodon/mastodon
 https://github.com/matze/wastebin
+https://github.com/midday-ai/midday
 https://github.com/misskey-dev/misskey
 https://github.com/nginxproxymanager/nginx-proxy-manager
 https://github.com/oblien/openship
+https://github.com/openstatushq/openstatus
 https://github.com/osbytes/crypt.fyi
 https://github.com/plausible/analytics
 https://github.com/singlelink-co/singlelink
