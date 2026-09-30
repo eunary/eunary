@@ -22,6 +22,9 @@ https://github.com/flask-extensions/flask-simplelogin
 https://github.com/grantjenks/python-diskcache
 https://github.com/gruns/furl
 https://github.com/httpie/cli
+https://github.com/huggingface/tau
+https://github.com/karpathy/autoresearch
+https://github.com/karpathy/nanochat
 https://github.com/karpathy/nanogpt
 https://github.com/keras-team/keras
 https://github.com/ktbyers/netmiko
@@ -35,6 +38,7 @@ https://github.com/matplotlib/matplotlib
 https://github.com/maxcountryman/flask-bcrypt
 https://github.com/maxcountryman/flask-login
 https://github.com/mem0ai/mem0
+https://github.com/microsoft/markitdown
 https://github.com/microsoft/playwright-python
 https://github.com/microsoft/vibevoice
 https://github.com/mitmproxy/mitmproxy
@@ -85,6 +89,7 @@ https://github.com/tensorflow/tensorflow
 https://github.com/textualize/rich
 https://github.com/theskumar/python-dotenv
 https://github.com/unslothai/unsloth
+https://github.com/usestrix/strix
 https://github.com/wagtail/wagtail
 https://github.com/waydroid/waydroid
 https://github.com/wireservice/csvkit

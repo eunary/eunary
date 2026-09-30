@@ -12,7 +12,9 @@ https://github.com/bluesky-social/social-app
 https://github.com/capsoftware/cap
 https://github.com/coteditor/coteditor
 https://github.com/desktop/desktop
+https://github.com/deta/surf
 https://github.com/drawdb-io/drawdb
+https://github.com/erictli/scratch
 https://github.com/files-community/files
 https://github.com/freecad/freecad
 https://github.com/genymobile/scrcpy
@@ -25,13 +27,16 @@ https://github.com/kong/insomnia
 https://github.com/koodo-reader/koodo-reader
 https://github.com/lmms/lmms
 https://github.com/localsend/localsend
+https://github.com/manaflow-ai/cmux
 https://github.com/mifi/lossless-cut
 https://github.com/mpv-player/mpv
+https://github.com/mularahul/keyviz
 https://github.com/obsproject/obs-studio
 https://github.com/olive-editor/olive
 https://github.com/padloc/padloc
 https://github.com/pantheon-tweaks/pantheon-tweaks
 https://github.com/paulpacifico/shutter-encoder
+https://github.com/pekkiriscim/vault
 https://github.com/sindresorhus/gifski
 https://github.com/sonic-pi-net/sonic-pi
 https://github.com/spacedriveapp/spacedrive

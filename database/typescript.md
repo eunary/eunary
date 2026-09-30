@@ -9,7 +9,9 @@ https://github.com/better-auth/better-auth
 https://github.com/bgub/eta
 https://github.com/bitwarden/clients
 https://github.com/bluesky-social/atproto
+https://github.com/cloudflare/agents
 https://github.com/cloudflare/computer
+https://github.com/cloudflare/sandbox-sdk
 https://github.com/cloudflare/vinext
 https://github.com/codex-team/editor.js
 https://github.com/dahlia/hollo
@@ -29,6 +31,7 @@ https://github.com/heroui-inc/heroui
 https://github.com/honojs/hono
 https://github.com/honojs/honox
 https://github.com/infisical/infisical
+https://github.com/lifo-sh/lifo
 https://github.com/lumeland/base-blog
 https://github.com/lumeland/lume
 https://github.com/macaron-css/macaron
@@ -36,6 +39,7 @@ https://github.com/mantinedev/mantine
 https://github.com/mermaid-js/mermaid
 https://github.com/microsoft/playwright
 https://github.com/microsoft/vscode
+https://github.com/midudev/subvid.app
 https://github.com/milkdown/milkdown
 https://github.com/nanostores/nanostores
 https://github.com/nativescript/nativescript
@@ -46,6 +50,7 @@ https://github.com/onejs/one
 https://github.com/openstatushq/openstatus
 https://github.com/palantir/blueprint
 https://github.com/panel-ui/panelui
+https://github.com/pierrecomputer/pierre
 https://github.com/pmndrs/jotai
 https://github.com/pmndrs/react-three-fiber
 https://github.com/pmndrs/use-gesture
@@ -75,6 +80,7 @@ https://github.com/ulid/javascript
 https://github.com/unjs/consola
 https://github.com/unjs/ofetch
 https://github.com/vadimdemedes/ink
+https://github.com/vercel-labs/json-render
 https://github.com/vercel/little-date
 https://github.com/vercel/ms
 https://github.com/vercel/serve

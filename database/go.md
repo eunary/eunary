@@ -7,12 +7,15 @@ https://github.com/blushft/go-diagrams
 https://github.com/caddyserver/caddy
 https://github.com/charmbracelet/bubbles
 https://github.com/charmbracelet/bubbletea
+https://github.com/charmbracelet/glow
 https://github.com/charmbracelet/lipgloss
 https://github.com/cli/cli
+https://github.com/cloudflare/gokey
 https://github.com/cosmtrek/air
 https://github.com/cue-lang/cue
 https://github.com/davidbyttow/govips
 https://github.com/ddosify/ddosify
+https://github.com/dolthub/dolt
 https://github.com/encoredev/encore
 https://github.com/enetx/surf
 https://github.com/expr-lang/expr
@@ -76,6 +79,8 @@ https://github.com/traefik/yaegi
 https://github.com/trufflesecurity/trufflehog
 https://github.com/unkeyed/unkey
 https://github.com/usememos/memos
+https://github.com/vormadev/vorma
 https://github.com/wagoodman/dive
 https://github.com/wailsapp/wails
 https://github.com/writefreely/writefreely
+https://github.com/zakirullin/files.md
