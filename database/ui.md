@@ -11,7 +11,9 @@ https://usgraphics.com/products/berkeley-mono
 https://www.recursive.design/
 
 ---
+https://assistant-ui.com/
 https://base-ui.com/
+https://coss.com/ui
 https://daisyui.com/
 https://heroui.com/
 https://nicegui.io/
@@ -19,6 +21,8 @@ https://park-ui.com/
 
 ---
 https://doodad.dev/
+https://evilcharts.com/
+https://font.subf.dev/
 https://freedesignstuff.com/
 https://justsketch.me/
 https://kasiabojanowska.com/

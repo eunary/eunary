@@ -20,8 +20,10 @@ https://nicchan.me/
 https://nithinbekal.com/
 https://ntietz.com/
 https://overreacted.io/
+https://paulwong.work/
 https://rauchg.com/
 https://shud.in/
+https://shwn.design/
 https://taniarascia.com/
 https://troz.net/
 https://yuanchuan.dev/
