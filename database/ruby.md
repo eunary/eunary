@@ -1,5 +1,6 @@
 ---
 https://github.com/activeadmin/activeadmin
+https://github.com/activerecord-hackery/ransack
 https://github.com/barefootford/buttercut
 https://github.com/basecamp/kamal
 https://github.com/basecamp/thruster

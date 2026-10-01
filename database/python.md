@@ -44,6 +44,7 @@ https://github.com/microsoft/vibevoice
 https://github.com/mitmproxy/mitmproxy
 https://github.com/mozilla/unicode-slugify
 https://github.com/mozillazg/python-pinyin
+https://github.com/muodov/kociemba
 https://github.com/myshell-ai/melotts
 https://github.com/myshell-ai/openvoice
 https://github.com/netflix/metaflow
