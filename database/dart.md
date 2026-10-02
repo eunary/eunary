@@ -17,6 +17,7 @@ https://github.com/letsar/flutter_slidable
 https://github.com/localsend/localsend
 https://github.com/lollipopkit/flutter_server_box
 https://github.com/lvivski/start
+https://github.com/munificent/hauberk
 https://github.com/nubank/nuvigator
 https://github.com/nylo-core/nylo
 https://github.com/openflutter/flutter_screenutil

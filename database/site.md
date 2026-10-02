@@ -22,6 +22,8 @@ https://coffer.my/
 https://cosmos.network/
 https://curl.md/
 https://database.dev/
+https://designeer.xyz/
+https://detail.dev/
 https://developer.apple.com/cn/passkeys/
 https://dl.google.com/
 https://earendil.com/
@@ -44,6 +46,7 @@ https://jackiehu.design/
 https://lycoris-recoil.com/character/?chara=takina
 https://makingsoftware.com/
 https://mdxcn.dev/
+https://mek.gallery/
 https://moderncss.dev/
 https://onepagelove.com/
 https://openai.fm/

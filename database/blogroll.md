@@ -7,6 +7,7 @@ https://flaviocopes.com/
 https://imkylelambert.com/
 https://janko.io/
 https://jasoncharnes.com/
+https://jeiwan.net/
 https://journal.stuffwithstuff.com/
 https://karreiro.com/
 https://leerob.com/
