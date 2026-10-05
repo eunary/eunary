@@ -7,6 +7,7 @@ https://appicons.store/
 https://apps.apple.com/
 https://artsy.net/
 https://ascii-magic.com/
+https://asktori.ai/
 https://asystem.dev/
 https://bitwarden.com/
 https://blank.page/
@@ -33,6 +34,7 @@ https://ethereum.org/zh/glossary/
 https://filebase.com/
 https://fl0.com/
 https://flathub.org/
+https://garden.bradwoods.io/
 https://genesis.ai/
 https://getaegis.app/
 https://ghostty.org/
@@ -42,7 +44,9 @@ https://grainrad.com/
 https://handshake.org/
 https://history.vpon.me/
 https://icloud.com/
+https://invoicemon.com/
 https://jackiehu.design/
+https://kantorlab.de/
 https://lycoris-recoil.com/character/?chara=takina
 https://makingsoftware.com/
 https://mdxcn.dev/
@@ -60,6 +64,7 @@ https://play.google.com/store/apps/
 https://player.style/
 https://posthog.com/
 https://privoxy.org/
+https://railway.com/free-vm
 https://ravion.com/
 https://rectangles.fm/
 https://ruby2d.com/
@@ -71,10 +76,12 @@ https://stateofcss.com/
 https://stateofdevs.com/
 https://stateofjs.com/
 https://stippling.app/
+https://strudel.cc/
 https://sympy.org/
 https://syntax.fm/
 https://tame.ooo/
 https://texture.fayaz.workers.dev/
+https://threeui.com/
 https://trycap.dev/
 https://turso.tech/
 https://unsplash.com/

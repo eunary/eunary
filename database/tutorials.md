@@ -1,4 +1,5 @@
 ---
+https://7guis.bradwoods.io/
 https://animations.dev/vocabulary
 https://betterexplained.com/calculus/lesson-1/
 https://build-redis-from-scratch.dev/
@@ -22,10 +23,13 @@ https://github.com/cedlemo/ruby-gtk3-tutorial
 https://github.com/davidsfiddle/sonic-pi-code-bits
 https://github.com/elteoremadebeethoven/manimce-tutorial
 https://github.com/elteoremadebeethoven/pycairo-tutorial
+https://github.com/idnan/bash-guide
 https://github.com/ikemura23/sonic-pi-code
+https://github.com/kelseyhightower/kubernetes-the-hard-way
 https://github.com/leandromoreira/digital_video_introduction
 https://github.com/leandromoreira/ffmpeg-libav-tutorial
 https://github.com/rohitg00/ai-engineering-from-scratch
+https://github.com/wsargent/docker-cheat-sheet
 https://gobyexample.com/
 https://golangbyexample.com/
 https://gowebexamples.com/
@@ -40,11 +44,14 @@ https://nan.fyi/database
 https://nayuki.io/page/creating-a-qr-code-step-by-step
 https://objccn.io/issues/
 https://open.gl/
+https://openai.com/zh-hans-cn/index/solving-rubiks-cube/
 https://os.phil-opp.com/
 https://philippflenker.com/hecto/
 https://pomax.github.io/bezierinfo/
 https://pymotw.com/3/
+https://rauchg.com/2014/7-principles-of-rich-web-applications
 https://riffle.systems/essays/prelude/
+https://robertheaton.com/2018/11/28/https-in-the-real-world/
 https://thebookofshaders.com/
 https://thevalleyofcode.com/
 https://traefik.io/glossary/reverse-proxy
