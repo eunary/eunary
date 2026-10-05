@@ -11,6 +11,7 @@ https://github.com/dalance/procs
 https://github.com/dandavison/delta
 https://github.com/diesel-rs/diesel
 https://github.com/dioxuslabs/dioxus
+https://github.com/dmtrkovalenko/fframes
 https://github.com/dora-rs/dora
 https://github.com/ducaale/xh
 https://github.com/dylanhart/ulid-rs

@@ -25,12 +25,15 @@ https://github.com/elteoremadebeethoven/pycairo-tutorial
 https://github.com/ikemura23/sonic-pi-code
 https://github.com/leandromoreira/digital_video_introduction
 https://github.com/leandromoreira/ffmpeg-libav-tutorial
+https://github.com/rohitg00/ai-engineering-from-scratch
 https://gobyexample.com/
 https://golangbyexample.com/
 https://gowebexamples.com/
 https://immersivemath.com/ila/
+https://jmeiners.com/lc3-vm/
 https://lhartikk.github.io/
 https://lightnote.co/
+https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
 https://linuxfromscratch.org/
 https://muted.io/cheat-sheet/
 https://nan.fyi/database

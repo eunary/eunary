@@ -50,6 +50,7 @@ https://github.com/onejs/one
 https://github.com/openstatushq/openstatus
 https://github.com/palantir/blueprint
 https://github.com/panel-ui/panelui
+https://github.com/pascalorg/editor
 https://github.com/pierrecomputer/pierre
 https://github.com/pmndrs/jotai
 https://github.com/pmndrs/react-three-fiber
